@@ -1,0 +1,25 @@
+.title{
+    margin-bottom:10px; 
+    text-align:center;
+    color: orange;
+    width: 180px;
+    border: solid black 2px;
+}
+
+input[type="button"]{
+    background-color: black;
+    color: white;
+  
+    width: 100%;
+    border: solid black 2px;
+}
+
+input[type="text"]{
+    background-color:white;
+    
+    width: 100%;
+    border: solid black 2px;
+}
+table{
+    background-color: gray;
+}
